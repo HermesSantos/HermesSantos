@@ -1,2 +1,2 @@
-I’m @HermesSantos, I’m interested in backend, currently learning PHP with Laravel and Vue.js.
-I’m looking to collaborate on private and open sources projects, front and backend.
+I’m @HermesSantos, I’m interested in the fullstack carrer, currently learning Node.js with React.
+I’m looking to collaborate on private and open sources projects, frontend and backend.
