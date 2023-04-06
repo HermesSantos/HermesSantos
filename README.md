@@ -6,13 +6,18 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesSantos&layout=compact&hide_border=true&title_color=ff91a4&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HermesSantos&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HermesSantos&bg_color=141414&color=4c529e&line=524c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HermesSantos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<div align="center"> 
+  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPVsxJDTZcZFdShhznSnMRlGFfZNdxMCBqDLNPGqGwfpjxFZwQmdVzgpdVwWznfvrcvMJM"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
+  <a href="https://www.linkedin.com/in/hermes-santos-8596031a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
 ### Frontend Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
