@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hermes+Santos;I'm+a+fullstack+27+years+old+developer;I'm+from+Brasil,+SC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesSantos&layout=compact&hide_border=true&title_color=ff91a4&text_color=00bfbf&bg_color=0d1117" />
 </div> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HermesSantos&bg_color=141414&color=4c529e&line=524c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HermesSantos&bg_color=141414&color=4c529e&line=524c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <!-- <p align="center">
