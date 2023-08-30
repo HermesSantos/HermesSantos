@@ -31,5 +31,4 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   
 ### Enthusiast in:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117&textColor=0D1117)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&logo=Ruby&labelColor=0D1117&textColor=0D1117)&nbsp;
