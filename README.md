@@ -20,11 +20,12 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=.net&logoColor=white&labelColor=0D1117)&nbsp;
 
 ## Tools
+![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=Cypress&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![VsCode](https://img.shields.io/badge/-VsCode-0D1117?style=for-the-badge&logo=vscode&labelColor=0D1117)&nbsp;
 ![FileZilla](https://img.shields.io/badge/-FileZilla-0D1117?style=for-the-badge&logo=FileZilla&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=Postman&labelColor=0D1117)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=vscode&labelColor=0D1117)&nbsp;
+
 
 ### Database:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
