@@ -31,4 +31,4 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   
 ### Enthusiast in:
-![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=Rust&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=Go&labelColor=0D1117&textColor=0D1117)&nbsp;
