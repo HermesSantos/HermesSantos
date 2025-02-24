@@ -2,7 +2,6 @@
   <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPVsxJDTZcZFdShhznSnMRlGFfZNdxMCBqDLNPGqGwfpjxFZwQmdVzgpdVwWznfvrcvMJM"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/hermes-santos-8596031a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
  
 ### Frontend Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
@@ -32,3 +31,8 @@
   
 ### Enthusiast in:
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=Go&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<div align="center">
+  <a href="https://github.com/HermesSantos/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HermesSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
