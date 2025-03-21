@@ -31,8 +31,3 @@
   
 ### Enthusiast in:
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=Go&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<div align="center">
-  <a href="https://github.com/HermesSantos/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HermesSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
