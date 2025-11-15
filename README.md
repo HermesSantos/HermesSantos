@@ -15,14 +15,12 @@
 ### Backend Stack:
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=white&labelColor=0D1117)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=Go&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ## Tools
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=Cypress&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![VsCode](https://img.shields.io/badge/-VsCode-0D1117?style=for-the-badge&logo=vscode&labelColor=0D1117)&nbsp;
-![FileZilla](https://img.shields.io/badge/-FileZilla-0D1117?style=for-the-badge&logo=FileZilla&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=Postman&labelColor=0D1117)&nbsp;
 
 
