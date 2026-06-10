@@ -1,4 +1,3 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HermesSantos&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HermesSantos&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HermesSantos&theme=gotham)
 
